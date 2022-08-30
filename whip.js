@@ -3,6 +3,7 @@ whip = {
   MaxSpeed = 69,
   HorsePower = 15,
   Fuel = 'Liquid Orchid Fertilizer',
+  FuelConsumptionPer100km = 1.4
   HasDoors = false,
   BitchesOnBoard = 6,
   GloveBox = {
