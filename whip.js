@@ -9,6 +9,11 @@ whip = {
   GloveBox = {
     Money = 69420.69,
     Condoms = 17,
+    Smokables = [
+      Tobacco Pipe,
+      Gurka Royal Courtesan,
+      Treasurer Luxury Black
+    ],
     Weapons = [
       Machete, Glock-18, OldFirework
     ],
@@ -24,5 +29,5 @@ whip = {
   Pedals = 3,
   HasRoof = false,
   CarTheftAttempts = 9,
-  HasAlarm = true,
+  HasAlarm = true
 }
