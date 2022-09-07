@@ -23,5 +23,5 @@ whip = {
   Pedals = 3,
   HasRoof = false,
   CarTheftAttempts = 9,
-  HasAlarm = true,
+  HasAlarm = true
 }
